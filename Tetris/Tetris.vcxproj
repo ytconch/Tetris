@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="show.txt" />
     <ClCompile Include="Tetris.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="control.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
