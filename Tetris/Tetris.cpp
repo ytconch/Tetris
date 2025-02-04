@@ -8,7 +8,7 @@
 #include <windows.h>
 #include <sstream>
 
-
+// 時間格式化
 
 
 std::string getTime() {
